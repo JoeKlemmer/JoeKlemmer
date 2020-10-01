@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🌱 I’m currently learning Python, Django, and (maybe) Flask
-- 💬 Ask me about cigars :-)
+- 💬 Ask me about cigars 😄
 <!--
 **JoeKlemmer/JoeKlemmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
