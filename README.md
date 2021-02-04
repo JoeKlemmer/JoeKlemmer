@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-### 🌱 I’m currently learning Python, Django, and (maybe) Flask
+### 🌱 I’m currently learning Python, Django, and whatever else comes to mind
 - 💬 Ask me about cigars 😄
+- ⚡ Fun fact: I can sing the Outro to Gilligan's Island
 <!--
 **JoeKlemmer/JoeKlemmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
