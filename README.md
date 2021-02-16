@@ -1,7 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JoeKlemmer)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/JoeKlemmer)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/JoeKlemmer/ama)
-
+https://badgen.net/github/license/micromatch/micromatch
 
 ## Hi there 👋
 
