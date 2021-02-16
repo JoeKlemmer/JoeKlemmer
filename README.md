@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/JoeKlemmer)
+
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeKlemmer)](https://github.com/JoeKlemmer/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeKlemmer)](https://github.com/JoeKlemmer/github-readme-stats)
