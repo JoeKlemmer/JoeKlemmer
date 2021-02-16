@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JoeKlemmer)
-
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/JoeKlemmer)
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeKlemmer)](https://github.com/JoeKlemmer/github-readme-stats)
